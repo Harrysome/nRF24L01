@@ -1,5 +1,6 @@
 # nRF24L01 module transform
 Using 2.4GHz and using SPI to communicate. The data limit at once is 32byte.
+The used library is [RF24](https://nrf24.github.io/RF24/), which can be installed from the IDE's library manager.
 
 |type|size|range|
 |---|---|---|
