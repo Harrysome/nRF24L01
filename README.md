@@ -1,5 +1,5 @@
 # nRF24L01 module transform
-Using 2.4GHz and using SPI to communicate. The data limit at one time is 32byte.
+Using 2.4GHz and using SPI to communicate. The data limit at once is 32byte.
 
 |type|size|range|
 |---|---|---|
